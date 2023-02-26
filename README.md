@@ -1,2 +1,2 @@
 # Turmite
-A university assignment using HTML Canvas
+University assignment using HTML Canvas
